@@ -6,16 +6,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=2000&color=42F7DD&vCenter=true&width=435&lines=Web3+influencer;Cybersecurity+researcher;Forntend+developer)](https://git.io/typing-svg)
 
-forntend developer, cybersecurity researcher, web3 influencer...... 💻💖☕
-
-
-- 💝 Author of multiple open source projects (~50 to date). 
-- 😎 Founder @ [Coding Dao](https://twitter.com/codingdao) 
-- 🤝 Core @ [OSS Philippines](https://ossph.org)
-- 🖥️ Owner @ [Nay Naing Oo](https://github.com/naynaingoo2003)
-- 🔏 Bug bounty hunter in free time.
-- ☕ Coffee lover, turning it into code.
-- 🎯 Wasting my time to save other people's time.
+- 👋 Hi there! I'm Nay Naaing Oo, a passionate Full Stack Developer in training.
+- 💻 I'm currently learning and working on projects related to front-end technologies like HTML, CSS, JavaScript, React, and back-end technologies like Node.js, Express, and MongoDB.
+- 👨‍💻 In my free time, I enjoy contributing to open-source projects and participating in hackathons to further enhance my skills.
+- 🌱 My main focus is on developing clean and efficient code and building responsive user interfaces that provide great user experiences.
 
 ## 🎧 Spotify Playing
 
